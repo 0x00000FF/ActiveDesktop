@@ -5,4 +5,4 @@ Active Desktop was supported from Internet Explorer 4.0, which aims to enable to
 
 The latest standard of HTML/CSS/JavaScript led not only drastic development of World Wide Web experience, but the entire of user experience in every applications that has frontend system. Chromium Project is one of the representative example, enabled appearance of Electron, an application framework that dragged web experience to non-web environment. Modern web made it despite of vast of security issues.
 
-Therefore, It is good timer to resurrect Active Desktop, and that's why this project began.  
+Therefore, It is good time to resurrect Active Desktop, and that's why this project began.  
