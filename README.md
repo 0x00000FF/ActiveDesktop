@@ -1,5 +1,5 @@
 # ActiveDesktop
-##### Homage to old-fashioned, but fashionable user interface
+##### Homage to old-era technology, but fashionable user experience
 
 Active Desktop was supported from Internet Explorer 4.0, which aims to enable to display web contents (such as HTML documents, or images) on desktop. Due to security reason, It was removed from Windows Vista. There are many 3rd-party applications that make desktop fancier, however, the potential power of modern web technology gives users great power to renovating their personal workspace.
 
